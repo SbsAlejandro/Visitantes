@@ -1,0 +1,1 @@
+var base_url = "http://criptopagosya.com/views/paginas/";
